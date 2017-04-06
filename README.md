@@ -7,6 +7,14 @@ Repository for my work in a Machine Learning course
 1. Install Docker
 2. ```docker build -t cs599_ml/anaconda .```
 
+> "." refers to the Dockerfile directory. The assumption is you're in the cs599_ml directory
+
+## Terminal
+
+```sh
+docker run -it cs599_ml/anaconda /bin/bash
+```
+
 ## Running Jupyter
 
 ```sh
