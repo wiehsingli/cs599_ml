@@ -10,5 +10,5 @@ Repository for my work in a Machine Learning course
 ## Running Jupyter
 
 ```sh
-docker run cs599_ml/anaconda -p 8888:8888 -v <ABSOLUTE_PATH_TO>/jupyter_notebooks:/opt/notebooks
+docker run -p 8888:8888 -v <ABSOLUTE_PATH_TO>/jupyter_notebooks:/opt/notebooks cs599_ml/anaconda
 ```
