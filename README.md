@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/psychobolt/cs599_ml.png?label=ready&title=Ready)](https://waffle.io/psychobolt/cs599_ml)
 # cs599_ml
 
 Repository for my work in a Machine Learning course
