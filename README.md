@@ -3,10 +3,11 @@
 
 Repository for my work in a Machine Learning course
 
-## Environment Setup
+## Build Docker Image
 
-1. Install Docker
-2. ```docker build -t cs599_ml/anaconda3 .```
+```sh
+docker build -t cs599_ml/anaconda3 .
+```
 
 > "." refers to the Dockerfile directory. The assumption is you're in the cs599_ml directory
 
